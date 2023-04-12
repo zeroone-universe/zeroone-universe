@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zeroone-universe
-- 👀 I’m interested in ML, Audio Processing, Music, Raving, and so on.
+- 👀 I’m interested in ML, Audio Processing, Music, and so on.
 - 🌱 I’m currently learning Speech&Audio Processing in Gwangju Institute of Science and Technology
 - 📫 How to reach me : one01011@gm.gist.ac.kr
 
